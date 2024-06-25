@@ -19,4 +19,5 @@ Express.js, KafkaJS, Sequelize (MySQL) for Database
  cd ..
  docker-compose up -d 
 ```
-    
+
+New Feature soon
